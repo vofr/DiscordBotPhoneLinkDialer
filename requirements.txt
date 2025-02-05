@@ -1,0 +1,5 @@
+discord.py==2.4.0
+pyautogui==0.9.5
+python-dotenv==1.0.1
+opencv-python==4.11.0.86 ###########################
+numpy==1.26.4 ######these 2 or pyscreenrec##########
