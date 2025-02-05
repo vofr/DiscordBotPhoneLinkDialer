@@ -30,7 +30,7 @@ Before running the project, make sure you have the following:
 1. **Clone the repository**:
    First, clone the project repository to your local machine using Git:
    ```bash
-   git clone https://github.com/yourusername/DiscordBotPhoneLinkDialer.git
+   git clone https://github.com/vofr/DiscordBotPhoneLinkDialer.git
    cd DiscordBotPhoneLinkDialer
    ```
 2. **Install dependencies**:
